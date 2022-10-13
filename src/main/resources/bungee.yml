@@ -1,0 +1,6 @@
+name: McMotd
+version: '${project.version}'
+main: pl.jordii.mcmotd.McMotd
+authors: [ Jordan "Jordii" Mruczynski ]
+description: An advanced bungee motd plugin
+
